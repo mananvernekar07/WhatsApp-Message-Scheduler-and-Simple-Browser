@@ -41,7 +41,7 @@ While delivery of WhatsApp messages, the system must be running the python proje
 # For any queries regarding the project, contact me:
 https://instagram.com/mananvernekar?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D
 
-Coding, Testing, Debugging by Manan Venekar
+Coding, Testing, Debugging by Manan Vernekar
 
 
 
